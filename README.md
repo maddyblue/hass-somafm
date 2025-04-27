@@ -1,5 +1,5 @@
 # SomaFM integration for Home Assistant
-This HACS integration adds all SomaFM stations to the media player.\
+This Home Assistant integration adds all SomaFM stations to the media player.\
 SomaFM stations are a regular audio media resource, so can be cast or listened to in-tab.
 
 This integration loads SomaFM's current stations upon load, so the listings are always up-to-date.
@@ -16,6 +16,6 @@ Clone this repository to `{CONFIG}/custom_components/somafm`, then restart Home 
 ![image](https://github.com/maddyblue/hass-somafm/assets/41181/6b496e00-97f4-477a-9009-7353584ad88d)
 
 ## Credits
-* Original integration by [Maddy Blue](https://github.com/maddyblue/)
+* Integration by [Maddy Blue](https://github.com/maddyblue/)
 * HACS hacks by [Wolfgang de Groot](https://github.com/wolfgangs-code/)
 * Music provided by [SomaFM](https://somafm.com)
