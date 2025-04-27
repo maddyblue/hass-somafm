@@ -6,7 +6,7 @@ This integration loads SomaFM's current stations upon load, so the listings are 
 
 ## Installation
 ### 1. My Home Assistant
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?repository=https%3A%2F%2Fgithub.com%2Fwolfgangs-code%2Fhacs-somafm&category=Integration&owner=wolfgang.space)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?repository=https%3A%2F%2Fgithub.com%2Fmaddyblue%2Fhass-somafm&category=Integration&owner=maddyblue)
 ### 2. HACS Custom Repository
 Simply add the link to this repo as a custom repository with the **Integration** type, then restart Home Assistant.
 ### 3. Manual Installation
